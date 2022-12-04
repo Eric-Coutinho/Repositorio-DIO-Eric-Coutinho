@@ -2,5 +2,7 @@
 
 Repositório criado para o Desafio de projeto
 
+## Desafio de Projeto sobre Git/GitHub feito por Eric Coutinho
 
-Desafio de Projeto sobre Git/GitHub
+Vou usar esse repositório para ajudar nos estudos com anotações e outros futuros projetos :)
+
